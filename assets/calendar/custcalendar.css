@@ -1,0 +1,16 @@
+#calendar {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+a[data-goto]:hover {
+  text-decoration: none !important;
+}
+
+.fc-today {
+  background-color: inherit !important;
+}
+
+.fc-time-grid-event .fc-content .fc-time span {
+  display: none;
+}
