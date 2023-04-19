@@ -1,6 +1,7 @@
 This is a website I updated,improved and added a new page about virtual Staging.
 The website is owned by MySquare Architects and Contractors 
 here is their instagram link : https://www.instagram.com/mysquarellc
+here is the link to website https://mysquare.netlify.app/
 
 Samples section
 
