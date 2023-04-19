@@ -10,4 +10,4 @@ homepage section.
 Contact-Us section.
 ![Screenshot (45)](https://user-images.githubusercontent.com/66677739/232046668-3e6dc4f6-3a88-46d9-8e73-c56bf547f0d9.png)
 
-this website is also fully responsive to mobile and tablet devices.
+this website is also fully responsive on mobile and tablet devices.
